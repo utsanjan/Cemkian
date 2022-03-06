@@ -3,4 +3,4 @@ Android application for viewing and getting notified about the daily college att
 STILL WORKING ON, WILL UPLOAD SOON...
 
 # Credits
-Backend credits: Exploitr (Pratim Majumder)
+Backend credits: [Exploitr (Pratim Majumder)](https://github.com/ExploiTR)
