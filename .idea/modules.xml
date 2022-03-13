@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cemkian.iml" filepath="$PROJECT_DIR$/.idea/modules/Cemkian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cemkian.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cemkian.app.iml" />
     </modules>
   </component>
 </project>
