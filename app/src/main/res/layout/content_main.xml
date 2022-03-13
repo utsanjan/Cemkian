@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_back"
+    android:fillViewport="true"
+    android:layout_marginBottom="-10dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ui_access.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <soup.neumorphism.NeumorphCardView
+        android:id="@+id/arc_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="center"
+        app:neumorph_shapeType="flat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        android:padding="30dp">
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            android:id="@+id/arc_progress"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="8dp"
+            app:arc_bottom_text="Attendance"
+            app:arc_bottom_text_size="12sp"
+            app:arc_progress="55"
+            app:arc_stroke_width="10dp"
+            app:arc_suffix_text_size="28sp"
+            app:arc_text_color="#474747"
+            app:arc_text_size="60sp"
+            app:arc_unfinished_color="#CACBCA"
+            app:arc_finished_color="#009688"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.012" />
+    </soup.neumorphism.NeumorphCardView>
+
+    <ImageButton
+        android:id="@+id/error"
+        android:layout_width="80dp"
+        android:layout_height="65dp"
+        android:layout_margin="-8dp"
+        android:background="@null"
+        android:layout_marginTop="5dp"
+        android:contentDescription="warning"
+        android:minHeight="50dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/recyclerAtt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/arc_card"
+        app:srcCompat="@drawable/ic_warning" />
+
+    <com.dopesatan.cemkian.attendance_objs.AttendanceRecyclerView
+        android:id="@+id/recyclerAtt"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="8dp"
+        android:layout_marginTop="8dp"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/error"
+        app:layout_constraintVertical_bias="1.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,68 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Start" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryStart</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkStart</item>
+        <item name="colorAccent">@color/colorAccentStart</item>
+    </style>
+
+    <style name="AppTheme.SettingsActivity" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimarySettingAct</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSettingsAct</item>
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.AboutActivity" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryAbout</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkAbout</item>
+        <item name="colorAccent">@color/colorAccentAbout</item>
+    </style>
+
+    <style name="AppTheme.SettingsActivity.TimePicker" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryTimePicker</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTimePicker</item>
+        <item name="colorAccent">@color/colorAccentTimePicker</item>
+    </style>
+
+    <style name="AppTheme.BugActivity" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimaryBug</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBug</item>
+        <item name="colorAccent">@color/colorAccentBug</item>
+    </style>
+
+    <style name="about_image">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">120dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Start.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Fullscreen">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

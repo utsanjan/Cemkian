@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.dopesatan.cemkian">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".jobs.AppOnCemk"
+        android:allowBackup="false"
+        android:allowClearUserData="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="DataExtractionRules,GoogleAppIndexingWarning,MissingClass"
+        tools:targetApi="s">
+        <activity
+            android:name=".ui_access.About"
+            android:exported="true"
+            android:theme="@style/AppTheme.AboutActivity" />
+        <activity
+            android:name=".ui_access.SettingsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui_access.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui_access.Splash"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar.Fullscreen"
+            tools:ignore="RedundantLabel">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui_access.MainActivity"
+            android:theme="@style/AppTheme.Start.NoActionBar" />
+    </application>
+
+</manifest>

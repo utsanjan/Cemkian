@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="-40dp"
+    android:background="@drawable/settings_back">
+
+    <ImageButton
+        android:id="@+id/about_back"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        android:backgroundTint="@color/trans"
+        android:layout_marginTop="50dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/_cached" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+    <soup.neumorphism.NeumorphCardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_me"
+        android:contentDescription="@string/memojidp" />
+    </soup.neumorphism.NeumorphCardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#474747"
+        android:text="@string/hello_world_i_m_utsanjan_maity" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="0dp"
+            android:textSize="10sp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#474747"
+            android:text="Computer Sc. and Engineering batch 2018-22" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:textSize="12sp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#474747"
+            android:gravity="center"
+            android:text="Frontend and UI by me, and Backend credit goes to\nPratim Majumder, Information Technology batch\n2018-22. Below you'll find more details about\nthis app's version and my social handles." />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="95dp"
+            android:layout_marginRight="95dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#474747"
+            android:text="Cemkian v1.2.2" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal">
+
+        <ImageButton
+            android:id="@+id/linkedin"
+            android:layout_width="60dp"
+            android:layout_height="70dp"
+            android:src="@drawable/linkedin"
+            android:backgroundTint="@color/trans"
+            android:layout_marginLeft="-8dp"
+            android:layout_marginRight="-8dp"
+            android:scaleType="fitCenter"/>
+
+            <ImageButton
+                android:id="@+id/youtube"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:src="@drawable/youtube"
+                android:backgroundTint="@color/trans"
+                android:layout_marginLeft="-8dp"
+                android:layout_marginRight="-8dp"
+                android:scaleType="fitCenter"/>
+
+            <ImageButton
+                android:id="@+id/github"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:src="@drawable/github"
+                android:backgroundTint="@color/trans"
+                android:layout_marginLeft="-8dp"
+                android:layout_marginRight="-8dp"
+                android:scaleType="fitCenter"/>
+
+            <ImageButton
+                android:id="@+id/facebook"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:src="@drawable/facebook"
+                android:backgroundTint="@color/trans"
+                android:layout_marginLeft="-8dp"
+                android:layout_marginRight="-8dp"
+                android:scaleType="fitCenter"/>
+
+            <ImageButton
+                android:id="@+id/instagram"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:src="@drawable/instagram"
+                android:backgroundTint="@color/trans"
+                android:layout_marginLeft="-8dp"
+                android:layout_marginRight="-8dp"
+                android:scaleType="fitCenter"/>
+
+            <ImageButton
+                android:id="@+id/donate"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:src="@drawable/donate"
+                android:backgroundTint="@color/trans"
+                android:layout_marginLeft="-8dp"
+                android:layout_marginRight="-8dp"
+                android:scaleType="fitCenter"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

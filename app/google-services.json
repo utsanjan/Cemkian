@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112168386712",
+    "project_id": "cemkian-cf0c1",
+    "storage_bucket": "cemkian-cf0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112168386712:android:bdf3992c3c04bea1d5d0ed",
+        "android_client_info": {
+          "package_name": "com.dopesatan.cemkian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112168386712-nkptrbhni6ck9idgo88u2lngk7k4b4he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKlnZosGCUnjndDjLHb7KlENU_Ckl0qfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112168386712-nkptrbhni6ck9idgo88u2lngk7k4b4he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
