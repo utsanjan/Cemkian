@@ -244,7 +244,7 @@ public class MainActivity extends AppCompatActivity
 				startActivity(new Intent(MainActivity.this, SettingsActivity.class));
 				break;
 			case R.id.menu_bug:
-				{Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("mailto:utsanjan@gmail.com"));
+				{Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/utsanjan/Cemkian/issues/new/choose"));
 				String title = "Open with";
 				Intent chooser = Intent.createChooser(intent, title);
 				startActivity(chooser);}
