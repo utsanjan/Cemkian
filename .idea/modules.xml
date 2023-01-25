@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cemkian.iml" filepath="$PROJECT_DIR$/.idea/modules/Cemkian.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cemkian.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cemkian.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cemkian.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cemkian.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cemkian.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cemkian.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cemkian.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cemkian.app.unitTest.iml" />
     </modules>
   </component>
 </project>

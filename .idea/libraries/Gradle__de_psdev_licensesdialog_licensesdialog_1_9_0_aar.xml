@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: de.psdev.licensesdialog:licensesdialog:1.9.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a45e465214779cb230a276f48d19cd89/transformed/jetified-licensesdialog-1.9.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a45e465214779cb230a276f48d19cd89/transformed/jetified-licensesdialog-1.9.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a45e465214779cb230a276f48d19cd89/transformed/jetified-licensesdialog-1.9.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d6542dc64fd9be48bd5cc416ccbbace1/transformed/jetified-licensesdialog-1.9.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6542dc64fd9be48bd5cc416ccbbace1/transformed/jetified-licensesdialog-1.9.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6542dc64fd9be48bd5cc416ccbbace1/transformed/jetified-licensesdialog-1.9.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ebec56e563f94320efc6453bcdc2411/transformed/jetified-licensesdialog-1.9.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ebec56e563f94320efc6453bcdc2411/transformed/jetified-licensesdialog-1.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ebec56e563f94320efc6453bcdc2411/transformed/jetified-licensesdialog-1.9.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
