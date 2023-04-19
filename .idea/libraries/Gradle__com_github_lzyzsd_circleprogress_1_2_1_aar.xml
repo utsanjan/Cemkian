@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.lzyzsd:circleprogress:1.2.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bc6aee6ea6464c73d0ddb95afbcdac2c/transformed/jetified-circleprogress-1.2.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc6aee6ea6464c73d0ddb95afbcdac2c/transformed/jetified-circleprogress-1.2.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc6aee6ea6464c73d0ddb95afbcdac2c/transformed/jetified-circleprogress-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/71adcc101d316c6f6d248bf6ec302358/transformed/jetified-circleprogress-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/71adcc101d316c6f6d248bf6ec302358/transformed/jetified-circleprogress-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/71adcc101d316c6f6d248bf6ec302358/transformed/jetified-circleprogress-1.2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

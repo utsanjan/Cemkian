@@ -27,4 +27,5 @@
     <string name="hello_world_i_m_utsanjan_maity">Hello world, I\'m Utsanjan Maity</string>
     <string name="internet_must_be_connected_at_specified_time">*Internet must be connected at specified time\nDoze Mode / Battery Saver prevents low priority\nbackground services to run properly\n\n\n</string>
     <string name="why">Instant, so stop using browsers,logging in again &amp; again and saving passwords insecurely in browser.\n• Well organized UI, with overall &amp; per-subject information along with action assist.\n• Daily auto-attendance checker, get informed about your attendance without even opening the app.</string>
+    <string name="about_us">Frontend and UI by me, and Backend credit goes to\nPratim Majumder, Information Technology batch\n2018–22. Below you'll find more details about\nthis app's version and the social handles.</string>
 </resources>

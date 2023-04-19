@@ -70,7 +70,7 @@
             android:fontFamily="sans-serif-light"
             android:textColor="#474747"
             android:gravity="center"
-            android:text="Frontend and UI by me, and Backend credit goes to\nPratim Majumder, Information Technology batch\n2018-22. Below you'll find more details about\nthis app's version and my social handles." />
+            android:text="@string/about_us" />
 
         <View
             android:layout_width="match_parent"
