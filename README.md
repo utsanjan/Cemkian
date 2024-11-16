@@ -18,6 +18,11 @@ receive timely notifications to stay informed about their attendance status.
 <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/1.png" width=120 height=240> <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/2.png" width=120 height=240> <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/3.png" width=120 height=240> <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/4.png" width=120 height=240> <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/5.png" width=120 height=240> <img src="https://github.com/utsanjan/Cemkian/blob/main/docs/screenshots/6.png" width=120 height=240> </p>
 
 ## 🕹️ Features
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://dcbadge.vercel.app/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎‎
+[![](https://img.shields.io/github/license/utsanjan/Cemkian?logoColor=red&style=plastic)](https://github.com/utsanjan/Cemkian/blob/main/LICENSE)‎ ‎‎
+[![](https://img.shields.io/github/languages/count/utsanjan/Cemkian?style=plastic)](https://github.com/utsanjan/Cemkian/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/languages/top/utsanjan/Cemkian?color=light%20green&style=plastic)](https://github.com/Cemkian)‎ ‎ <br>
 - **Daily Attendance Updates**  
   Easily view your daily attendance details directly on the app.
 
