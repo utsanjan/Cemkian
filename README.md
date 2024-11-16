@@ -61,7 +61,7 @@ We welcome contributions! To contribute:
 ## ✒️ Credits & License
 Backend credits: **[Exploitr (Pratim Majumder)](https://github.com/ExploiTR)**<br>
 This project is licensed under the MIT License.<br>
-See the [LICENSE](https://github.com/utsanjan/Cemkian/blob/main/LICENSE) file for more details.
+See the [LICENSE](https://github.com/utsanjan/Cemkian?tab=MIT-1-ov-file) file for more details.
 
 ## 📲 Contact
 For any queries or feedback:<br>
