@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/Cemkian">
-  <img src="https://shorturl.at/cb8ou"
+  <img src="https://cutt.ly/zrkSr3x7"
   alt="Cemkian" width=150>
   </a><br>
   Cemkian
