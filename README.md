@@ -19,7 +19,7 @@ receive timely notifications to stay informed about their attendance status.
 
 ## 🕹️ Features
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://dcbadge.vercel.app/api/server/uavTPkr?style=flat)](https://discord.gg/bvzTHWnD3n)‎ ‎‎
+[![](https://dcbadge.limes.pink/api/server/uavTPkr?style=flat)](https://discord.gg/bvzTHWnD3n)‎ ‎‎
 [![](https://img.shields.io/github/license/utsanjan/Cemkian?logoColor=red&style=flat)](https://github.com/utsanjan/Cemkian/blob/main/LICENSE)‎ ‎‎
 [![](https://img.shields.io/github/languages/count/utsanjan/Cemkian?style=flat)](https://github.com/utsanjan/Cemkian/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Cemkian?color=light%20green&style=flat)](https://github.com/Cemkian)‎ ‎ <br>
